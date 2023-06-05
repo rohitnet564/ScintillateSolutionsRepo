@@ -226,7 +226,7 @@
     bottom: 0;
     .footer-wrapper{
         background: #F2F2F2;
-        border-top: 12px solid #55A48A;
+        border-top: 12px solid ##e55039;
         @include flexbox();
         @include justify-content(space-between);
         @include align-items(center);
